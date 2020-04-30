@@ -1,0 +1,15 @@
+@font-face{
+	font-family: 'aa';
+	src: url('fonts/BalooChettan2-Bold.ttf');
+
+}
+@font-face{
+	font-family: 'bb';
+	src: url('fonts/BalooChettan2-ExtraBold.ttf');
+	
+}
+@font-face{
+	font-family: 'cc';
+	src: url('fonts/BalooChettan2-Medium.ttf');
+	
+}
